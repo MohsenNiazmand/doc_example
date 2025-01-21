@@ -78,6 +78,9 @@ kds_app/
 - **User -Friendly Interface**: Intuitive UI for easy navigation.
   ![User  Interface](https://raw.githubusercontent.com/MohsenNiazmand/doc_example/master/doc/user_interface.gif)
 
+- **Order Handling Flow**: Visual representation of how orders are processed in the restaurant.
+  ![Order Handling Flow](https://raw.githubusercontent.com/MohsenNiazmand/doc_example/master/doc/orders_flow.png)
+
 - **State Management**: Utilize Riverpod for efficient state management.
 
 - **Routing**: Navigate seamlessly using Go Router.
