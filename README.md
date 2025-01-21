@@ -1,6 +1,6 @@
 ## KDS Documentation
 
-```
+
 # Kitchen Display System (KDS) App
 
 A robust Kitchen Display System (KDS) application built with Flutter, utilizing Clean Architecture principles and various modern libraries for state management, routing, and localization.
