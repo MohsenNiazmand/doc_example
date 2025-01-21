@@ -73,10 +73,10 @@ kds_app/
 ## Features
 
 - **Real-time Order Display**: View and manage kitchen orders in real-time.
-  ![Order Display](https://github.com/MohsenNiazmand/doc_example/tree/master/doc/order_display.gif)
+  ![Order Display](https://raw.githubusercontent.com/MohsenNiazmand/doc_example/tree/master/doc/order_display.gif)
 
 - **User -Friendly Interface**: Intuitive UI for easy navigation.
-  ![User  Interface](https://github.com/MohsenNiazmand/doc_example/tree/master/doc/user_interface.gif)
+  ![User  Interface](https://raw.githubusercontent.com/MohsenNiazmand/doc_example/tree/master/doc/user_interface.gif)
 
 - **State Management**: Utilize Riverpod for efficient state management.
 
